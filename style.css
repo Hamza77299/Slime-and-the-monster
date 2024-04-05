@@ -1,0 +1,121 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 5vh;
+}
+p{
+    font-size: 2vh;
+    text-align: center;
+    width: 80vh;
+}
+
+.main-box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+
+}
+
+
+#image1{
+    height: 50vh;
+    width: 80vh;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    background-image: url(1.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+}
+
+#image2{
+    height: 50vh;
+    width: 80vh;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    background-image: url(2.webp);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+}
+
+#image3{
+    
+        height: 50vh;
+        width: 80vh;
+        background-color: rgb(0, 0, 0);
+        align-items: center;
+        background-image: url(3.webp);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        align-content: center;
+        
+  
+}
+
+#image4{
+    
+    height: 50vh;
+    width: 80vh;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    background-image: url(4.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+
+}
+
+#image5{
+    
+    height: 50vh;
+    width: 80vh;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    background-image: url(5.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+
+}
+
+#image6{
+    
+    height: 50vh;
+    width: 80vh;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    background-image: url(6.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+
+}
+
+#image7{
+    
+    height: 50vh;
+    width: 80vh;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    background-image: url(7.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+
+}
